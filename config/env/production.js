@@ -144,11 +144,11 @@ module.exports = {
     * > Be sure to use the right protocol!  ("http://" vs. "https://")         *
     *                                                                          *
     ***************************************************************************/
-    cors: {
-      allowOrigins: [
-         'https://defichainwebapplive.onrender.com',
-      ]
-    },
+    //cors: {
+    //  allowOrigins: [
+    //     'https://defichainwebapplive.onrender.com',
+    //  ]
+    //},
 
   },
 
