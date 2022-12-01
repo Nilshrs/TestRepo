@@ -49,11 +49,11 @@ module.exports = {
     default: {
 
       adapter: 'sails-mysql',
-      user:'user2_test',
-      password: 'e116100',
+      user:'user2_prod',
+      password: 'e100100',
       port:'33061',
       host: '193.196.53.194',
-      database: 'defichain_test'
+      database: 'defichain_prod'
 
 
       /****************************************************************************
